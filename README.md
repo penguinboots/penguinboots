@@ -22,7 +22,9 @@
 
 ```javascript
 const sabrina = {
+
   skills: {
+
     languages: [ javascript, ruby, css, html ],
 
     frameworksLibraries: [ nodeJS, reactJS, next, expressJS, jquery, sass, rails ],
@@ -32,14 +34,18 @@ const sabrina = {
     testing: [ mocha, chai, storybook, jest, cypress, rspec ],
 
     other: [ photoshop, gSuite, gitHub, figma, vercel ]
+
   }
 
   likes: [ art, design, snowboarding, penguins, pastry ]
 
   currentlyLearning: {
+
     languages: [ typescript ],
 
     frameworksLibraries: [ styledComponents ],
+
   }
+
 }
 ```
