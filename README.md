@@ -1,4 +1,5 @@
-# 🌸 SABRINA WANG'S GITHUB PORTFOLIO
+<h1 style="text-align: center">🌸 SABRINA WANG'S GITHUB PORTFOLIO
+</h1>
 
 ![banner image](./docs/banner.png)
 
