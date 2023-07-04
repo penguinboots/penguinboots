@@ -22,11 +22,16 @@
 const sabrina = {
   skills: {
     languages: [ javascript, ruby, css, html ],
+
     frameworksLibraries: [ nodeJS, reactJS, next, expressJS, jquery, sass, rails ],
-    systemsDatabases: [ postgresql, sql, git, prisma] ,
+
+    systemsDatabases: [ postgresql, sql, git, prisma ],
+
     testing: [ mocha, chai, storybook, jest, cypress, rspec ],
+
     other: [ photoshop, gSuite, gitHub, figma ]
   }
+  
   likes: [ art, design, snowboarding, penguins, pastry ]
 }
 ```
