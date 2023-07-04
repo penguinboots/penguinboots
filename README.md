@@ -18,6 +18,8 @@
 </a>
 </div>
 
+<br/>
+
 ```javascript
 const sabrina = {
   skills: {
@@ -31,7 +33,7 @@ const sabrina = {
 
     other: [ photoshop, gSuite, gitHub, figma ]
   }
-  
+
   likes: [ art, design, snowboarding, penguins, pastry ]
 }
 ```
