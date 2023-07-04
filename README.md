@@ -31,9 +31,15 @@ const sabrina = {
 
     testing: [ mocha, chai, storybook, jest, cypress, rspec ],
 
-    other: [ photoshop, gSuite, gitHub, figma ]
+    other: [ photoshop, gSuite, gitHub, figma, vercel ]
   }
 
   likes: [ art, design, snowboarding, penguins, pastry ]
+
+  currentlyLearning: {
+    languages: [ typescript ],
+
+    frameworksLibraries: [ styledComponents ],
+  }
 }
 ```
