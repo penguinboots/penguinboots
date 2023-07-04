@@ -17,3 +17,16 @@
     <img height="50px" width="50px" src="./docs/icon_website.svg"/>
 </a>
 </div>
+
+```javascript
+const sabrina = {
+  skills: {
+    languages: [ javascript, ruby, css, html ],
+    frameworksLibraries: [ nodeJS, reactJS, next, expressJS, jquery, sass, rails ],
+    systemsDatabases: [ postgresql, sql, git, prisma] ,
+    testing: [ mocha, chai, storybook, jest, cypress, rspec ],
+    other: [ photoshop, gSuite, gitHub, figma ]
+  }
+  likes: [ art, design, snowboarding, penguins, pastry ]
+}
+```
