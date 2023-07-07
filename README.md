@@ -43,7 +43,9 @@ const sabrina = {
 
     languages: [ typescript ],
 
-    frameworksLibraries: [ styledComponents ],
+    frameworksLibraries: [ tailwind ],
+
+    systemsDatabases: [ mongodb ]
 
   }
 
