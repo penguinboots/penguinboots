@@ -25,9 +25,9 @@ const sabrina = {
 
   skills: {
 
-    languages: [ javascript, ruby, css, html ],
+    languages: [ javascript, typescript, ruby, java, css, html ],
 
-    frameworksLibraries: [ nodeJS, reactJS, next, expressJS, jquery, sass, rails ],
+    frameworksLibraries: [ nodeJS, reactJS, next, sass, tailwind, expressJS, jquery, rails ],
 
     systemsDatabases: [ postgresql, sql, git, prisma ],
 
@@ -41,9 +41,9 @@ const sabrina = {
 
   currentlyLearning: {
 
-    languages: [ typescript ],
+    languages: [ php ],
 
-    frameworksLibraries: [ tailwind ],
+    frameworksLibraries: [ laravel ],
 
     systemsDatabases: [ mongodb ]
 
