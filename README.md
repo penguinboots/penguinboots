@@ -27,7 +27,7 @@ const sabrina = {
 
     languages: [ javascript, typescript, ruby, java, css, html ],
 
-    frameworksLibraries: [ nodeJS, reactJS, next, sass, tailwind, expressJS, jquery, rails ],
+    frameworksLibraries: [ nodeJS, reactJS, next, sass, tailwind, shadcnUI, clerk, expressJS, jquery, rails ],
 
     systemsDatabases: [ postgresql, sql, git, prisma ],
 
