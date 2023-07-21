@@ -41,9 +41,9 @@ const sabrina = {
 
   currentlyLearning: {
 
-    languages: [ php ],
+    languages: [ python ],
 
-    frameworksLibraries: [ laravel ],
+    frameworksLibraries: [ ],
 
     systemsDatabases: [ mongodb ]
 
