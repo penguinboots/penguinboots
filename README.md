@@ -27,13 +27,13 @@ const sabrina = {
 
     languages: [ javascript, typescript, ruby, java, css, html ],
 
-    frameworksLibraries: [ nodeJS, reactJS, next, sass, tailwind, shadcnUI, clerk, expressJS, jquery, rails ],
+    frameworksLibraries: [ nodeJS, reactJS, next, sass, tailwind, shadcnUI, expressJS, jquery, rails ],
 
     systemsDatabases: [ postgresql, sql, git, prisma ],
 
     testing: [ mocha, chai, storybook, jest, cypress, rspec ],
 
-    other: [ photoshop, gSuite, gitHub, figma, vercel ]
+    other: [ photoshop, gSuite, gitHub, figma, vercel, clerk, stripe, crisp, twilio ]
 
   }
 
