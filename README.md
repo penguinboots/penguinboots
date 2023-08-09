@@ -43,9 +43,9 @@ const sabrina = {
 
     languages: [ python ],
 
-    frameworksLibraries: [ ],
+    frameworksLibraries: [ threejs ],
 
-    systemsDatabases: [ mongodb ]
+    other: [ blender ]
 
   }
 
