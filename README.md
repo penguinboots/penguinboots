@@ -27,27 +27,17 @@ const sabrina = {
 
     languages: [ javascript, typescript, ruby, java, css, html ],
 
-    frameworksLibraries: [ nodeJS, reactJS, next, sass, tailwind, shadcnUI, framerMotion, expressJS, jquery, rails ],
+    frameworksLibraries: [ nodeJS, reactJS, nextJS, sass, tailwind, shadcnUI, framerMotion, expressJS, jquery, rails ],
 
     systemsDatabases: [ postgresql, sql, git, prisma ],
 
     testing: [ mocha, chai, storybook, jest, cypress, rspec ],
 
-    other: [ photoshop, gSuite, gitHub, figma, vercel, clerk, stripe, crisp, twilio ]
+    other: [ photoshop, gSuite, gitHub, figma, vercel, clerk, stripe, crisp, twilio, contentful ]
 
   }
 
   likes: [ art, design, snowboarding, penguins, pastry ]
-
-  currentlyLearning: {
-
-    languages: [ python ],
-
-    frameworksLibraries: [ threejs ],
-
-    other: [ blender ]
-
-  }
 
 }
 ```
